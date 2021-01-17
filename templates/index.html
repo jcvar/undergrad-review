@@ -1,9 +1,12 @@
-{% extends "base.html" %}
+{% extends "content.html" %}
 
 {% block content %}
+<!-- {{ __tera_context }} -->
 <h1 class="title">
-	This is my review
+	{{ section.title | safe }}
 </h1>
-<p><a href="blog/">Here</a> are the posts.</p>
-{% endblock content %}
 
+{{ section.content | safe }}
+
+<p><a href="blog/">Here</a> are the test blog posts.</p>
+{% endblock content %}
