@@ -1,7 +1,10 @@
 +++
 title = "Introduction"
+# template = "section.html"
+# page_template =
 +++
 
+# Introduction
 This website contains a personal review on the undergraduate program of
 'Ingeniería de Sistemas y Computación' at the Universidad Nacional de Colombia,
 as coursed from 2016 to 2021.
