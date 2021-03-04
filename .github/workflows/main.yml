@@ -10,6 +10,10 @@ jobs:
     steps:
       # Checkout
       - uses: actions/checkout@v2
+      # Inspect repo 
+      - run: | 
+          git log --oneline 
+          git log -1 README.md
       # Build & deploy
       - name: shalzz/zola-deploy-action
         uses: shalzz/zola-deploy-action@v0.12.0
