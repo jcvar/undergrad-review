@@ -45,7 +45,17 @@ leaving them restricted by their initial degree choices.
 
 The Computer Sciences subgrouping stands out with subjects exclusive to the 
 Systems and Computing degree, and now partially shared with the recently created 
-Computer Science program. [Cont.]
+Computer Science program, although, without any proper relationship between the
+subjects from the two faculties.
+
+To start off, both obligatory subjects from this grouping are also obligatory
+in the Computer Science program, Algorithms and Introduction to the Theory of Computing,
+but with different prerequisites on each program. As for the optative subjects,
+its even worse: Discrete Mathematics I and II and Numerical Methods, have a
+counterpart which is obligatory on the Computer Science program, however, these
+alternatives and their prerequisites don't follow the same path as in their
+program, which again, reinforces the default Engineering choices, and introduces
+unnecessary obstacles on a student who whishes to course them or pursue the two degrees.
 
 
 [credits]: http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=73193
