@@ -7,9 +7,10 @@ d3.json('curriculum.json').then(
     console.log(subjects);
     console.log(prerequisites);
 
-    // subjects.forEach(sub => {
-    //   sub.fixedValue = sub.cred;
-    // });
+    
+    subjects.forEach(sub => {
+      sub.fixedValue = sub.cred;
+    });
 
     sankey = d3.sankey()
     .nodeId(d => d.code)
@@ -35,9 +36,9 @@ d3.json('curriculum.json').then(
       .attr("y", d => d.y0)
       .attr("height", d => d.y1 - d.y0)
       .attr("width", d => d.x1 - d.x0)
-    
-      svg.append("g")
-      .attr("fill", "none")
+
+    svg.append("g")
+    .attr("fill", "none")
     .selectAll("g")
     .data(links)
     .join("path")
