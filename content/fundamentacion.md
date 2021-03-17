@@ -14,6 +14,7 @@ From the [Credits/Components document][credits]:
 | **Total**                             | **15**     | **36**   | **51** |
 
 The Foundations component of the program is, for the most part, pretty straight forward.
+Its subjects are detailed in the Article 2, Item A of the [Curriculum][curriculum].
 
 In both the Maths and Probability and Statistics groupings there are only optional credits,
 with each subgrouping having a choice of a course from either the Engineering or Science Faculties.
@@ -59,3 +60,4 @@ unnecessary obstacles on a student who whishes to course them or pursue the two 
 
 
 [credits]: http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=73193
+[curriculum]: http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=73711
