@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://jcvar.github.io/undergrad-review/</loc>
+    </url>
+    <url>
+        <loc>https://jcvar.github.io/undergrad-review/blog/</loc>
+    </url>
+    <url>
+        <loc>https://jcvar.github.io/undergrad-review/blog/first/</loc>
+        <lastmod>2020-01-16</lastmod>
+    </url>
+    <url>
+        <loc>https://jcvar.github.io/undergrad-review/blog/second/</loc>
+        <lastmod>2020-01-20</lastmod>
+    </url>
+    <url>
+        <loc>https://jcvar.github.io/undergrad-review/disciplinar/</loc>
+    </url>
+    <url>
+        <loc>https://jcvar.github.io/undergrad-review/fundamentacion/</loc>
+    </url>
+    <url>
+        <loc>https://jcvar.github.io/undergrad-review/introduction/</loc>
+    </url>
+    <url>
+        <loc>https://jcvar.github.io/undergrad-review/libre-eleccion/</loc>
+    </url>
+    <url>
+        <loc>https://jcvar.github.io/undergrad-review/overview/</loc>
+    </url>
+</urlset>

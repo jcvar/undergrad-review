@@ -1,0 +1,418 @@
+{
+    "subjects": [
+        {
+            "name": "Calculo Diferencial",
+            "nick": "diferencial",
+            "code": 1000004,
+            "cred": 4,
+            "comp": "F",
+            "group": "Matemáticas",
+            "term": 1
+        },
+        {
+            "name": "Introducción a la Ingeniería de Sistemas y Computación",
+            "nick": "intro-sistemas",
+            "code": 2025975,
+            "cred": 3,
+            "comp": "D",
+            "group": "Contexto",
+            "term": 1
+        },
+        {
+            "name": "Programación de Computadores",
+            "nick": "programacion",
+            "code": 2015734,
+            "cred": 3,
+            "comp": "D",
+            "group": "Software",
+            "term": 1
+        },
+        {
+            "name": "Fundamentos de Mecánica",
+            "nick": "mecanica",
+            "code": 1000019,
+            "cred": 4,
+            "comp": "F",
+            "group": "Física",
+            "term": 2
+        },
+        {
+            "name": "Calculo Integral",
+            "nick": "integral",
+            "code": 1000005,
+            "cred": 4,
+            "comp": "F",
+            "group": "Matemáticas",
+            "term": 2
+        },
+        {
+            "name": "Álgebra Lineal",
+            "nick": "lineal",
+            "code": 1000003,
+            "cred": 4,
+            "comp": "F",
+            "group": "Matemáticas",
+            "term": 2
+        },
+        {
+            "name": "Programación Orientada a Objetos",
+            "nick": "objetos",
+            "code": 2016375,
+            "cred": 3,
+            "comp": "D",
+            "group": "Software",
+            "term": 2
+        },
+        {
+            "name": "Probabilidad y Estadística Fundamental",
+            "nick": "probabilidad",
+            "code": 1000013,
+            "cred": 3,
+            "comp": "F",
+            "group": "Probabilidad",
+            "term": 3
+        },
+        {
+            "name": "Cálculo en Varias Variables",
+            "nick": "multi",
+            "code": 1000006,
+            "cred": 4,
+            "comp": "F",
+            "group": "Matemáticas",
+            "term": 3
+        },
+        {
+            "name": "Matemáticas Discretas I",
+            "nick": "discretas1",
+            "code": 2025963,
+            "cred": 4,
+            "comp": "F",
+            "group": "Ciencias de la Computación",
+            "term": 3
+        },
+        {
+            "name": "Bases de Datos",
+            "nick": "bases",
+            "code": 2016353,
+            "cred": 3,
+            "comp": "D",
+            "group": "Infraestructura",
+            "term": 3
+        },
+        {
+            "name": "Elementos de Computadores",
+            "nick": "elementos",
+            "code": 2016698,
+            "cred": 3,
+            "comp": "D",
+            "group": "Infraestructura",
+            "term": 3
+        },
+        {
+            "name": "Fundamentos de Electricidad y Magnetismo",
+            "nick": "electromagnetismo",
+            "code": 1000017,
+            "cred": 4,
+            "comp": "F",
+            "group": "Física",
+            "term": 4
+        },
+        {
+            "name": "Ingeniería Económica",
+            "nick": "ingeco",
+            "code": 2015703,
+            "cred": 3,
+            "comp": "F",
+            "group": "Ciencias Económicas",
+            "term": 4
+        },
+        {
+            "name": "Matemáticas Discretas II",
+            "nick": "discretas2",
+            "code": 2025964,
+            "cred": 4,
+            "comp": "F",
+            "group": "Ciencias de la Computación",
+            "term": 4
+        },
+        {
+            "name": "Estructuras de Datos",
+            "nick": "estructuras",
+            "code": 2016699,
+            "cred": 3,
+            "comp": "D",
+            "group": "Software",
+            "term": 4
+        },
+        {
+            "name": "Arquitectura de Computadores",
+            "nick": "arquitectura",
+            "code": 2016697,
+            "cred": 3,
+            "comp": "D",
+            "group": "Infraestructura",
+            "term": 4
+        },
+        {
+            "name": "Modelos y Simulación",
+            "nick": "modelos",
+            "code": 2025970,
+            "cred": 3,
+            "comp": "D",
+            "group": "Modelos",
+            "term": 5
+        },
+        {
+            "name": "Gerencia y Gestión de Proyectos",
+            "nick": "gerencia",
+            "code": 2015702,
+            "cred": 3,
+            "comp": "F",
+            "group": "Ciencias Económicas",
+            "term": 5
+        },
+        {
+            "name": "Redes de Computadores",
+            "nick": "redes",
+            "code": 2025967,
+            "cred": 3,
+            "comp": "D",
+            "group": "Software",
+            "term": 5
+        },
+        {
+            "name": "Ingeniería de Software I",
+            "nick": "ingesoft1",
+            "code": 2016701,
+            "cred": 3,
+            "comp": "D",
+            "group": "Software",
+            "term": 5
+        },
+        {
+            "name": "Introducción a la Teoría de la Computación",
+            "nick": "intro-teoria",
+            "code": 2015174,
+            "cred": 4,
+            "comp": "F",
+            "group": "Física",
+            "term": 5
+        },
+        {
+            "name": "Optimización",
+            "nick": "opti",
+            "code": 2025971,
+            "cred": 3,
+            "comp": "D",
+            "group": "Modelos",
+            "term": 6
+        },
+        {
+            "name": "Métodos Numéricos",
+            "nick": "metodos",
+            "code": 2015970,
+            "cred": 3,
+            "comp": "F",
+            "group": "Ciencias de la Computación",
+            "term": 6
+        },
+        {
+            "name": "Sistemas de Información",
+            "nick": "sis-info",
+            "code": 2025982,
+            "cred": 3,
+            "comp": "D",
+            "group": "Infraestructura",
+            "term": 6
+        },
+        {
+            "name": "Ingeniería de Software II",
+            "nick": "ingesoft2",
+            "code": 2016702,
+            "cred": 3,
+            "comp": "D",
+            "group": "Software",
+            "term": 6
+        },
+        {
+            "name": "Algoritmos",
+            "nick": "algo",
+            "code": 2016696,
+            "cred": 3,
+            "comp": "F",
+            "group": "Ciencias de la Computación",
+            "term": 6
+        },
+        {
+            "name": "Sistemas Operativos",
+            "nick": "sis-op",
+            "code": 2016707,
+            "cred": 3,
+            "comp": "D",
+            "group": "Infraestructura",
+            "term": 6
+        },
+        {
+            "name": "Modelos Estocásticos y Simulación en Computación y Comunicaciones",
+            "nick": "estocasticos",
+            "code": 2025969,
+            "cred": 3,
+            "comp": "D",
+            "group": "Modelos",
+            "term": 7
+        },
+        {
+            "name": "Teoría de la Información y Sistemas de Comunicaciones",
+            "nick": "teoria",
+            "code": 2025994,
+            "cred": 3,
+            "comp": "D",
+            "group": "Infraestructura",
+            "term": 7
+        },
+        {
+            "name": "Pensamiento Sistémico",
+            "nick": "sistemico",
+            "code": 2016703,
+            "cred": 3,
+            "comp": "D",
+            "group": "Modelos",
+            "term": 7
+        },
+        {
+            "name": "Arquitectura de Software",
+            "nick": "arquisoft",
+            "code": 2016716,
+            "cred": 3,
+            "comp": "D",
+            "group": "Software",
+            "term": 7
+        },
+        {
+            "name": "Lenguajes de Programación",
+            "nick": "lenguajes",
+            "code": 2025966,
+            "cred": 3,
+            "comp": "D",
+            "group": "Software",
+            "term": 7
+        },
+        {
+            "name": "Introducción a los Sistemas Inteligentes",
+            "nick": "intro-inteligentes",
+            "code": 2025995,
+            "cred": 3,
+            "comp": "D",
+            "group": "Sistemas Inteligentes",
+            "term": 7
+        },
+        {
+            "name": "Computación Paralela y Distribuída",
+            "nick": "paralela",
+            "code": 2016722,
+            "cred": 3,
+            "comp": "D",
+            "group": "Infraestructura",
+            "term": 8
+        },
+        {
+            "name": "Computación Visual",
+            "nick": "visual",
+            "code": 2025960,
+            "cred": 3,
+            "comp": "D",
+            "group": "Computación Visual",
+            "term": 8
+        },
+        {
+            "name": "Taller de Proyectos Interdisciplinarios",
+            "nick": "tpi",
+            "code": 2024045,
+            "cred": 3,
+            "comp": "D",
+            "group": "Contexto",
+            "term": 8
+        },
+        {
+            "name": "Arquitectura de Infraestructura y Gobierno de TICs",
+            "nick": "tics",
+            "code": 2025983,
+            "cred": 3,
+            "comp": "D",
+            "group": "Infraestructura",
+            "term": 8
+        },
+        {
+            "name": "Introducción a la Criptografía y a la Seguridad de la Información",
+            "nick": "cripto",
+            "code": 2025972,
+            "cred": 3,
+            "comp": "D",
+            "group": "Infraestructura",
+            "term": 8
+        },
+        {
+            "name": "Trabajo de Grado",
+            "nick": "grado",
+            "code": 1010101,
+            "cred": 6,
+            "comp": "D",
+            "group": "Trabajo de Grado",
+            "term": 10
+        }
+    ],
+    "prerequisites": [
+        {
+            "source": "diferencial",
+            "target": "integral"
+        },
+        {
+            "source": "diferencial",
+            "target": "mecanica"
+        },
+        {
+            "source": "diferencial",
+            "target": "lineal"
+        },
+        {
+            "source": "intro-sistemas",
+            "target": "elementos"
+        },
+        {
+            "source": "programacion",
+            "target": "objetos"
+        },
+        {
+            "source": "integral",
+            "target": "multi"
+        },
+        {
+            "source": "integral",
+            "target": "electromagnetismo"
+        },
+        {
+            "source": "integral",
+            "target": "probabilidad"
+        },
+        {
+            "source": "lineal",
+            "target": "multi"
+        },
+        {
+            "source": "lineal",
+            "target": "discretas1"
+        },
+        {
+            "source": "objetos",
+            "target": "estructuras"
+        },
+        {
+            "source": "objetos",
+            "target": "bases"
+        },
+        {
+            "source": "objetos",
+            "target": "modelos"
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jcvar.github.io/undergrad-review/sitemap.xml
